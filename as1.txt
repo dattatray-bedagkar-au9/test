@@ -1,2 +1,0 @@
-cd :
-this is used for change the dir
