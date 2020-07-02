@@ -1,5 +1,2 @@
-ass1 
-day1 
-random
-kariti 
-awukbvfgkuwbakfb
+cd :
+this is used for change the dir
